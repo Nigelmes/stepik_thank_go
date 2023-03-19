@@ -1,0 +1,2 @@
+Golang is awesome
+Stepik.org
